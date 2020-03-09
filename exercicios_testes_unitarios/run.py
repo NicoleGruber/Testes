@@ -1,4 +1,4 @@
-from app.api_cep import ApiCep
+from exercicios_testes_unitarios.app.api_cep import ApiCep
 
 
 def consulta_api_viacep():
